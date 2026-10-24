@@ -88,3 +88,36 @@ This project was developed as a Computer Science and Engineering mini project to
 **Nagaraj Gouda**  
 Computer Science and Engineering student  
 RNS Institute of Technology, Bengaluru
+
+
+## Application Screenshots
+
+### 1. Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 2. Stock Analysis
+![Stock Analysis](screenshots/stock-analysis.png)
+
+### 3. Compare Stocks
+![Compare Stocks](screenshots/compare-stocks.png)
+
+### 4. AI Portfolio Classification
+![AI Portfolio Classification](screenshots/portfolio-classification.png)
+
+### 5. AI Stock Classification
+![AI Stock Classification](screenshots/stock-classification.png)
+
+### 6. Portfolio Simulator
+![Portfolio Simulator](screenshots/portfolio-simulator.png)
+
+### 7. AI Assistant
+![AI Assistant](screenshots/ai-assistant.png)
+
+### 8. Risk Profiler
+![Risk Profiler](screenshots/risk-profiler.png)
+
+### 9. Asset Allocation
+![Asset Allocation](screenshots/asset-allocation.png)
+
+### 10. Download Reports
+![Download Reports](screenshots/download-reports.png)
