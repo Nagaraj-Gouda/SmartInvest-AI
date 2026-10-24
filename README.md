@@ -1,3 +1,7 @@
+## Live Demo
+
+[Launch SmartInvest AI](https://smartinvest-ai-nagaraj.streamlit.app/)
+
 # SmartInvest AI — Smart Investment Risk & Portfolio Learning Assistant
 
 SmartInvest AI is a Python-based web application built with Streamlit that helps users understand historical stock performance, investment risk, and portfolio diversification through interactive charts, educational explanations, and machine-learning demonstrations.
